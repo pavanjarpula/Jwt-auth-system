@@ -6,7 +6,7 @@ A clean, production-ready REST API for user authentication built with **Node.js*
 
 ## 🚀 Live Demo
 
-> Coming soon after deployment
+> 🌐 https://jwt-auth-system-hg8h.onrender.com
 
 ---
 
